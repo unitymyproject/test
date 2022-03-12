@@ -1,0 +1,14 @@
+type: conveyor
+name: con
+research: {
+  parent: duo
+  requirements: [
+    copper/100
+  ]
+}
+health:100
+requirements: [
+	{"item": "copper", "copper": 10}
+]
+speed: 1
+category: distribution

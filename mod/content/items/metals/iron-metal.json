@@ -1,0 +1,8 @@
+type: material
+name: iron-metal
+explosiveness: 0f
+flammability: 0f
+radioactivity: 0f
+hardness: 0
+cost: 1f
+alwaysUnlocked: false

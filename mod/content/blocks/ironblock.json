@@ -1,0 +1,14 @@
+name: ironblock
+type: Wall
+research: {
+  parent: duo
+  requirements: [
+    copper/100
+  ]
+}
+health:5000
+size: 2
+requirements: [
+	{"item": "copper", "copper": 1 }
+]
+category: defense
